@@ -1,0 +1,41 @@
+﻿@model IEnumerable<MedistockApp.Models.Prescription>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Medicines)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FkIdDiagnosisNavigation)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Medicines)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FkIdDiagnosisNavigation.IdDiagnosis)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.IdPrescription">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.IdPrescription">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.IdPrescription">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
