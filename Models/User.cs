@@ -37,3 +37,4 @@ public partial class User
 
     public virtual ICollection<Scheduling> SchedulingFkIdPatientNavigations { get; set; } = new List<Scheduling>();
 }
+

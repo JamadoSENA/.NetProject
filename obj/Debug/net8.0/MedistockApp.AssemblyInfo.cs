@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MedistockApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04c18cc49404d5c0c30348f184d7bcf3d0601c9e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8c4ef1804835e68856727b3d9fe694a04879374")]
 [assembly: System.Reflection.AssemblyProductAttribute("MedistockApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MedistockApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

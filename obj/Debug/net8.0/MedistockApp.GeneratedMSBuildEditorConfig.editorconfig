@@ -94,6 +94,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/julia/OneDrive/Documentos/Julian/MedistockApp/Views/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/julia/OneDrive/Documentos/Julian/MedistockApp/Views/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9nb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/julia/OneDrive/Documentos/Julian/MedistockApp/Views/Medicinesprescriptions/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVzcHJlc2NyaXB0aW9uc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -152,6 +160,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/julia/OneDrive/Documentos/Julian/MedistockApp/Views/Prescriptions/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJlc2NyaXB0aW9uc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/julia/OneDrive/Documentos/Julian/MedistockApp/Views/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/julia/OneDrive/Documentos/Julian/MedistockApp/Views/Roles/Create.cshtml]

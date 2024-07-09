@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DEC1F851-8C46-4946-BF87-D52ACCAF997A}|MedistockApp.csproj|c:\\users\\julia\\onedrive\\documentos\\julian\\medistockapp\\views\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEC1F851-8C46-4946-BF87-D52ACCAF997A}|MedistockApp.csproj|solutionrelative:views\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DEC1F851-8C46-4946-BF87-D52ACCAF997A}|MedistockApp.csproj|c:\\users\\julia\\onedrive\\documentos\\julian\\medistockapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DEC1F851-8C46-4946-BF87-D52ACCAF997A}|MedistockApp.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC1F851-8C46-4946-BF87-D52ACCAF997A}|MedistockApp.csproj|c:\\users\\julia\\onedrive\\documentos\\julian\\medistockapp\\models\\medistockcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEC1F851-8C46-4946-BF87-D52ACCAF997A}|MedistockApp.csproj|solutionrelative:models\\medistockcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC1F851-8C46-4946-BF87-D52ACCAF997A}|MedistockApp.csproj|c:\\users\\julia\\onedrive\\documentos\\julian\\medistockapp\\views\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEC1F851-8C46-4946-BF87-D52ACCAF997A}|MedistockApp.csproj|solutionrelative:views\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC1F851-8C46-4946-BF87-D52ACCAF997A}|MedistockApp.csproj|c:\\users\\julia\\onedrive\\documentos\\julian\\medistockapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEC1F851-8C46-4946-BF87-D52ACCAF997A}|MedistockApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC1F851-8C46-4946-BF87-D52ACCAF997A}|MedistockApp.csproj|c:\\users\\julia\\onedrive\\documentos\\julian\\medistockapp\\views\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DEC1F851-8C46-4946-BF87-D52ACCAF997A}|MedistockApp.csproj|solutionrelative:views\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC1F851-8C46-4946-BF87-D52ACCAF997A}|MedistockApp.csproj|c:\\users\\julia\\onedrive\\documentos\\julian\\medistockapp\\views\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEC1F851-8C46-4946-BF87-D52ACCAF997A}|MedistockApp.csproj|solutionrelative:views\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC1F851-8C46-4946-BF87-D52ACCAF997A}|MedistockApp.csproj|c:\\users\\julia\\onedrive\\documentos\\julian\\medistockapp\\views\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEC1F851-8C46-4946-BF87-D52ACCAF997A}|MedistockApp.csproj|solutionrelative:views\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC1F851-8C46-4946-BF87-D52ACCAF997A}|MedistockApp.csproj|c:\\users\\julia\\onedrive\\documentos\\julian\\medistockapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEC1F851-8C46-4946-BF87-D52ACCAF997A}|MedistockApp.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEC1F851-8C46-4946-BF87-D52ACCAF997A}|MedistockApp.csproj|c:\\users\\julia\\onedrive\\documentos\\julian\\medistockapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEC1F851-8C46-4946-BF87-D52ACCAF997A}|MedistockApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DEC1F851-8C46-4946-BF87-D52ACCAF997A}|MedistockApp.csproj|c:\\users\\julia\\onedrive\\documentos\\julian\\medistockapp\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,18 +83,6 @@
       "RelativeMoniker": "D:0:0:{DEC1F851-8C46-4946-BF87-D52ACCAF997A}|MedistockApp.csproj|solutionrelative:models\\appoinment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEC1F851-8C46-4946-BF87-D52ACCAF997A}|MedistockApp.csproj|c:\\users\\julia\\onedrive\\documentos\\julian\\medistockapp\\models\\medistockcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEC1F851-8C46-4946-BF87-D52ACCAF997A}|MedistockApp.csproj|solutionrelative:models\\medistockcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEC1F851-8C46-4946-BF87-D52ACCAF997A}|MedistockApp.csproj|c:\\users\\julia\\onedrive\\documentos\\julian\\medistockapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEC1F851-8C46-4946-BF87-D52ACCAF997A}|MedistockApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEC1F851-8C46-4946-BF87-D52ACCAF997A}|MedistockApp.csproj|c:\\users\\julia\\onedrive\\documentos\\julian\\medistockapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEC1F851-8C46-4946-BF87-D52ACCAF997A}|MedistockApp.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DEC1F851-8C46-4946-BF87-D52ACCAF997A}|MedistockApp.csproj|c:\\users\\julia\\onedrive\\documentos\\julian\\medistockapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{DEC1F851-8C46-4946-BF87-D52ACCAF997A}|MedistockApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
@@ -75,45 +99,124 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Views\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Views\\Logout.cshtml",
+              "RelativeToolTip": "Views\\Logout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T02:08:03.07Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T00:18:18.892Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SuppliersController.cs",
-              "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Controllers\\SuppliersController.cs",
-              "RelativeDocumentMoniker": "Controllers\\SuppliersController.cs",
-              "ToolTip": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Controllers\\SuppliersController.cs",
-              "RelativeToolTip": "Controllers\\SuppliersController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAAMsAAAAAAAAAAAAIwOUAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T02:07:22.355Z",
+              "WhenOpened": "2024-06-30T02:08:03.07Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SchedulingsController.cs",
-              "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Controllers\\SchedulingsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\SchedulingsController.cs",
-              "ToolTip": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Controllers\\SchedulingsController.cs",
-              "RelativeToolTip": "Controllers\\SchedulingsController.cs",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T00:09:26.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Views\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Views\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Views\\Login.cshtml.cs",
+              "RelativeToolTip": "Views\\Login.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T02:06:38.167Z",
+              "WhenOpened": "2024-07-09T00:08:00.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Views\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Login.cshtml",
+              "ToolTip": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Views\\Login.cshtml",
+              "RelativeToolTip": "Views\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T23:46:11.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Views\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Views\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Views\\Register.cshtml.cs",
+              "RelativeToolTip": "Views\\Register.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T23:43:54.459Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Views\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Register.cshtml",
+              "ToolTip": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Views\\Register.cshtml",
+              "RelativeToolTip": "Views\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-08T23:42:06.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T01:56:55.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MedistockContext.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Models\\MedistockContext.cs",
+              "RelativeDocumentMoniker": "Models\\MedistockContext.cs",
+              "ToolTip": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Models\\MedistockContext.cs",
+              "RelativeToolTip": "Models\\MedistockContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T01:21:53.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "RolesController.cs",
               "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Controllers\\RolesController.cs",
               "RelativeDocumentMoniker": "Controllers\\RolesController.cs",
@@ -126,7 +229,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T01:28:16.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SchedulingsController.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Controllers\\SchedulingsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SchedulingsController.cs",
+              "ToolTip": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Controllers\\SchedulingsController.cs",
+              "RelativeToolTip": "Controllers\\SchedulingsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T02:06:38.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SuppliersController.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Controllers\\SuppliersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SuppliersController.cs",
+              "ToolTip": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Controllers\\SuppliersController.cs",
+              "RelativeToolTip": "Controllers\\SuppliersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T02:07:22.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "PrescriptionsController.cs",
               "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Controllers\\PrescriptionsController.cs",
               "RelativeDocumentMoniker": "Controllers\\PrescriptionsController.cs",
@@ -139,7 +281,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "MedicinesprescriptionsController.cs",
               "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Controllers\\MedicinesprescriptionsController.cs",
               "RelativeDocumentMoniker": "Controllers\\MedicinesprescriptionsController.cs",
@@ -152,7 +294,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "MedicinesController.cs",
               "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Controllers\\MedicinesController.cs",
               "RelativeDocumentMoniker": "Controllers\\MedicinesController.cs",
@@ -165,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "DiagnosesController.cs",
               "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Controllers\\DiagnosesController.cs",
               "RelativeDocumentMoniker": "Controllers\\DiagnosesController.cs",
@@ -178,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
@@ -191,7 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "AppoinmentsController.cs",
               "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Controllers\\AppoinmentsController.cs",
               "RelativeDocumentMoniker": "Controllers\\AppoinmentsController.cs",
@@ -204,20 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T01:56:55.074Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 19,
               "Title": "Appoinment.cs",
               "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Models\\Appoinment.cs",
               "RelativeDocumentMoniker": "Models\\Appoinment.cs",
@@ -229,74 +358,8 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:989829324:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T01:28:16.915Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MedistockContext.cs",
-              "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Models\\MedistockContext.cs",
-              "RelativeDocumentMoniker": "Models\\MedistockContext.cs",
-              "ToolTip": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\Models\\MedistockContext.cs",
-              "RelativeToolTip": "Models\\MedistockContext.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAACUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T01:21:53.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\julia\\OneDrive\\Documentos\\Julian\\MedistockApp\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",

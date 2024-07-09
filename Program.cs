@@ -8,6 +8,20 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<MedistockContext>(options =>
                 options.UseMySql(builder.Configuration.GetConnectionString("DatabaseConnection"), Microsoft.EntityFrameworkCore.ServerVersion.Parse("8.0.30-mysql")));
 
+// Configuración de autenticación
+builder.Services.AddAuthentication(options =>
+{
+    options.DefaultScheme = "CookieAuthentication";
+    options.DefaultChallengeScheme = "CookieAuthentication";
+})
+.AddCookie("CookieAuthentication", options =>
+{
+    options.LoginPath = "/Account/Login"; // Ruta de la página de inicio de sesión
+    options.LogoutPath = "/Account/Logout"; // Ruta de la página de cierre de sesión
+    // Agrega otras configuraciones si es necesario
+});
+
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -24,6 +38,8 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
+
+app.UseAuthentication();
 
 app.MapControllerRoute(
     name: "default",
